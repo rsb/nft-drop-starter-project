@@ -1,0 +1,19 @@
+{
+  "name": "lola basket",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "76AGTmTY7tevG8vBekUHz257nxQ34Aht7s6oFwjUVXiQ",
+        "share": 100
+      }
+    ]
+  }
+}

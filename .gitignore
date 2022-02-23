@@ -20,3 +20,5 @@ chrome-user-data
 *.swp
 *.swo
 .idea
+.cache
+.env

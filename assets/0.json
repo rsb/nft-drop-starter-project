@@ -1,0 +1,19 @@
+{
+  "name": "lola steps",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "76AGTmTY7tevG8vBekUHz257nxQ34Aht7s6oFwjUVXiQ",
+        "share": 100
+      }
+    ]
+  }
+}
